@@ -1,0 +1,49 @@
+.peer-review {
+    height: 800px;
+    background-image: url("./peer-review-process.jpeg");
+}
+
+.peer-review__header{
+    margin-top: 100px;
+    margin-bottom: 25px;
+    font-size: 70px;
+    color: #FFFFFF;
+}
+
+.peer-review__form {
+    background-color: #299c43;
+}
+
+label {
+    color: #FFFFFF;
+}
+
+/*peer-review-result styling*/
+.peer-review-result {
+    height: 800px;
+    background-image: url("./peer-review-process.jpeg");
+}
+
+.peer-review-result__header {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #FFFFFF;
+}
+
+.peer-review-result__table {
+    background-color: #eae5a7;
+}
+
+.peer-review-result__table--highlight {
+    background-color: #fd8146;
+    color: #FFFFFF;
+}
+
+li {
+    list-style: none
+}
+
+li .icon-facetime-video {
+    margin-right: 8px;
+}
+
