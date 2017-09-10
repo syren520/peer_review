@@ -8,5 +8,8 @@ Run following command:
 $ pip install -r requirement.txt
 $ FLASK_APP=route.py flask run
 ```
-oepn http://127.0.0.1:5000/homepage in browser.
+oepn http://127.0.0.1:5000 in browser.
+
+# Demo
+Here is a demo on Heroku: https://peer-review-daisy.herokuapp.com/
 
